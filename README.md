@@ -9,12 +9,12 @@ The sharing principle of these references here is for research. If any authors d
 * [Review Papers](https://github.com/LantaoYu/MARL-Papers#review-papers)
 * [Research Papers](https://github.com/LantaoYu/MARL-Papers#research-papers)
   * [Framework](https://github.com/LantaoYu/MARL-Papers#framework)
-  * [Joint action learning](https://github.com/LantaoYu/MARL-Papers#joint-action-learning)
   * [Cooperation and competition](https://github.com/LantaoYu/MARL-Papers#cooperation-and-competition)
   * [Coordination](https://github.com/LantaoYu/MARL-Papers#coordination)
   * [Security](https://github.com/LantaoYu/MARL-Papers#security)
   * [Self-Play](https://github.com/LantaoYu/MARL-Papers#self-play)
   * [Learning To Communicate](https://github.com/LantaoYu/MARL-Papers#learning-to-communicate)
+  * [Joint action learning](https://github.com/LantaoYu/MARL-Papers#joint-action-learning)
   * [Transfer Learning](https://github.com/LantaoYu/MARL-Papers#transfer-learning)
   * [Inverse Reinforcement Learning](https://github.com/LantaoYu/MARL-Papers#inverse-reinforcement-learning)
   * [Application](https://github.com/LantaoYu/MARL-Papers#application)
@@ -25,6 +25,7 @@ The sharing principle of these references here is for research. If any authors d
 * [Multiagent systems: Algorithmic, game-theoretic, and logical foundations](http://www.masfoundations.org/download.html) by Shoham Y, Leyton-Brown K. Cambridge University Press, 2008.
 
 ## Review Papers
+* [A Survey of Learning in Multiagent Environments: Dealing with Non-Stationarity] (https://arxiv.org/pdf/1707.09183.pdf) by Pablo Hernandez-Leal, Michael Kaisers, Tim Baarslag, Enrique Munoz de Cote. arXiv, 2017.
 * [Deep Reinforcement Learning Variants of Multi-Agent Learning Algorithms](https://project-archive.inf.ed.ac.uk/msc/20162091/msc_proj.pdf) by Castaneda A O. 2016.
 * [Evolutionary Dynamics of Multi-Agent Learning: A Survey](https://jair.org/media/4818/live-4818-8818-jair.pdf) by Bloembergen, Daan, et al. JAIR, 2015.
 * [Game theory and multi-agent reinforcement learning](https://www.researchgate.net/publication/269100101_Game_Theory_and_Multi-agent_Reinforcement_Learning) by Nowé A, Vrancx P, De Hauwere Y M. Reinforcement Learning. Springer Berlin Heidelberg, 2012.
@@ -38,7 +39,8 @@ The sharing principle of these references here is for research. If any authors d
 ## Research Papers
 
 ### Framework
-* [Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments](https://arxiv.org/pdf/1706.02275.pdF) by Ryan Lowe, Yi Wu, Aviv Tamar, Jean Harb, Pieter Abbeel, Igor Mordatch arXiv, 2017 
+* [Counterfactual Multi-Agent Policy Gradients](https://arxiv.org/pdf/1705.08926.pdf) by Jakob Foerster, Gregory Farquhar, Triantafyllos Afouras, Nantas Nardelli, Shimon Whiteson. arXiv, 2017 
+* [Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments](https://arxiv.org/pdf/1706.02275.pdf) by Ryan Lowe, Yi Wu, Aviv Tamar, Jean Harb, Pieter Abbeel, Igor Mordatch. arXiv, 2017 
 * [Deep Decentralized Multi-task Multi-Agent RL under Partial Observability](https://arxiv.org/pdf/1703.06182.pdf) by Omidshafiei S, Pazis J, Amato C, et al. arXiv, 2017.
 * [Multiagent Bidirectionally-Coordinated Nets for Learning to Play StarCraft Combat Games](https://arxiv.org/pdf/1703.10069.pdf) by Peng P, Yuan Q, Wen Y, et al. arXiv, 2017.
 * [Robust Adversarial Reinforcement Learning](https://arxiv.org/pdf/1703.02702.pdf) by Lerrel Pinto, James Davidson, Rahul Sukthankar, Abhinav Gupta. arXiv, 2017.
@@ -58,14 +60,9 @@ The sharing principle of these references here is for research. If any authors d
 * [Value-function reinforcement learning in Markov game](http://www.sts.rpi.edu/~rsun/si-mal/article3.pdf) by Littman M L. Cognitive Systems Research, 2001.
 * [Hierarchical multi-agent reinforcement learning](http://researchers.lille.inria.fr/~ghavamza/my_website/Publications_files/agents01.pdf) by Makar, Rajbala, Sridhar Mahadevan, and Mohammad Ghavamzadeh. The fifth international conference on Autonomous agents, 2001.
 
-### Joint action learning
-* [AWESOME: A general multiagent learning algorithm that converges in self-play and learns a best response against stationary opponents](http://www.cs.cmu.edu/~conitzer/awesomeML06.pdf) by Conitzer V, Sandholm T. Machine Learning, 2007.
-* [Extending Q-Learning to General Adaptive Multi-Agent Systems](https://papers.nips.cc/paper/2503-extending-q-learning-to-general-adaptive-multi-agent-systems.pdf) by Tesauro, Gerald. NIPS, 2003.
-* [Multiagent reinforcement learning: theoretical framework and an algorithm.](http://www.lirmm.fr/~jq/Cours/3cycle/module/HuWellman98icml.pdf) by Hu, Junling, and Michael P. Wellman. ICML, 1998.
-* [The dynamics of reinforcement learning in cooperative multiagent systems](http://www.aaai.org/Papers/AAAI/1998/AAAI98-106.pdf) by Claus C, Boutilier C. AAAI, 1998.
-* [Markov games as a framework for multi-agent reinforcement learning](https://www.cs.duke.edu/courses/spring07/cps296.3/littman94markov.pdf) by Littman, Michael L. ICML, 1994.
-
 ### Cooperation and competition
+* [A multi-agent reinforcement learning model of common-pool resource appropriation](https://arxiv.org/pdf/1707.06600.pdf) by Julien Perolat, Joel Z. Leibo, Vinicius Zambaldi, Charles Beattie, Karl Tuyls, Thore Graepel. arXiv, 2017. 
+* [Value-Decomposition Networks For Cooperative Multi-Agent Learning](https://arxiv.org/pdf/1706.05296.pdf) by Peter Sunehag, Guy Lever, Audrunas Gruslys, et. al. arXiv, 2017
 * [Multi-agent Reinforcement Learning in Sequential Social Dilemmas](https://arxiv.org/pdf/1702.03037.pdf) by Leibo J Z, Zambaldi V, Lanctot M, et al. arXiv, 2017. [[Post](https://deepmind.com/blog/understanding-agent-cooperation/)]
 * [Opponent Modeling in Deep Reinforcement Learning](http://www.umiacs.umd.edu/~hal/docs/daume16opponent.pdf) by He H, Boyd-Graber J, Kwok K, et al. ICML, 2016.
 * [Multiagent cooperation and competition with deep reinforcement learning](https://arxiv.org/pdf/1511.08779.pdf) by Tampuu A, Matiisen T, Kodelja D, et al. arXiv, 2015.
@@ -78,6 +75,7 @@ The sharing principle of these references here is for research. If any authors d
 * [Sparse cooperative Q-learning](http://www.machinelearning.org/proceedings/icml2004/papers/267.pdf) by Kok J R, Vlassis N. ICML, 2004.
 
 ### Coordination
+* [Lenient Multi-Agent Deep Reinforcement Learning](https://arxiv.org/pdf/1707.04402.pdf) by Gregory Palmer, Karl Tuyls, Daan Bloembergen, Rahul Savani. arXiv, 2017.
 * [Coordinated Multi-Agent Imitation Learning](https://arxiv.org/pdf/1703.03121.pdf) by Le H M, Yue Y, Carr P. arXiv, 2017.
 * [Reinforcement social learning of coordination in networked cooperative multiagent systems](http://mipc.inf.ed.ac.uk/2014/papers/mipc2014_hao_etal.pdf) by Hao J, Huang D, Cai Y, et al. AAAI Workshop, 2014.
 * [Coordinating multi-agent reinforcement learning with limited communication](http://www.aamas-conference.org/Proceedings/aamas2013/docs/p1101.pdf) by Zhang, Chongjie, and Victor Lesser. AAMAS, 2013.
@@ -105,6 +103,13 @@ The sharing principle of these references here is for research. If any authors d
 * [Learning to communicate with deep multi-agent reinforcement learning](https://arxiv.org/pdf/1605.06676.pdf) by Foerster J, Assael Y M, de Freitas N, et al. NIPS, 2016.
 * [Learning multiagent communication with backpropagation](http://papers.nips.cc/paper/6398-learning-multiagent-communication-with-backpropagation.pdf) by Sukhbaatar S, Fergus R. NIPS, 2016.
 * [Efficient distributed reinforcement learning through agreement](http://people.csail.mit.edu/lpk/papers/dars08.pdf) by Varshavskaya P, Kaelbling L P, Rus D. Distributed Autonomous Robotic Systems, 2009.
+
+### Joint action learning
+* [AWESOME: A general multiagent learning algorithm that converges in self-play and learns a best response against stationary opponents](http://www.cs.cmu.edu/~conitzer/awesomeML06.pdf) by Conitzer V, Sandholm T. Machine Learning, 2007.
+* [Extending Q-Learning to General Adaptive Multi-Agent Systems](https://papers.nips.cc/paper/2503-extending-q-learning-to-general-adaptive-multi-agent-systems.pdf) by Tesauro, Gerald. NIPS, 2003.
+* [Multiagent reinforcement learning: theoretical framework and an algorithm.](http://www.lirmm.fr/~jq/Cours/3cycle/module/HuWellman98icml.pdf) by Hu, Junling, and Michael P. Wellman. ICML, 1998.
+* [The dynamics of reinforcement learning in cooperative multiagent systems](http://www.aaai.org/Papers/AAAI/1998/AAAI98-106.pdf) by Claus C, Boutilier C. AAAI, 1998.
+* [Markov games as a framework for multi-agent reinforcement learning](https://www.cs.duke.edu/courses/spring07/cps296.3/littman94markov.pdf) by Littman, Michael L. ICML, 1994.
 
 ### Transfer Learning
 * [Transfer Learning for Multiagent Reinforcement Learning Systems](https://www.ijcai.org/Proceedings/16/Papers/565.pdf) by da Silva, Felipe Leno, and Anna Helena Reali Costa. IJCAI, 2016.
