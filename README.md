@@ -59,6 +59,7 @@ The sharing principle of these references here is for research. If any authors d
 * [Reinforcement learning to play an optimal Nash equilibrium in team Markov games](https://papers.nips.cc/paper/2171-reinforcement-learning-to-play-an-optimal-nash-equilibrium-in-team-markov-games.pdf) by Wang X, Sandholm T. NIPS, 2002.
 * [Value-function reinforcement learning in Markov game](http://www.sts.rpi.edu/~rsun/si-mal/article3.pdf) by Littman M L. Cognitive Systems Research, 2001.
 * [Hierarchical multi-agent reinforcement learning](http://researchers.lille.inria.fr/~ghavamza/my_website/Publications_files/agents01.pdf) by Makar, Rajbala, Sridhar Mahadevan, and Mohammad Ghavamzadeh. The fifth international conference on Autonomous agents, 2001.
+* [Feudal reinforcement learning](http://www.cs.toronto.edu/~fritz/absps/dh93.pdf) by Dayan, P., & Hinton, G. E., NIPS, 1993.
 
 ### Cooperation and competition
 * [A multi-agent reinforcement learning model of common-pool resource appropriation](https://arxiv.org/pdf/1707.06600.pdf) by Julien Perolat, Joel Z. Leibo, Vinicius Zambaldi, Charles Beattie, Karl Tuyls, Thore Graepel. arXiv, 2017. 
